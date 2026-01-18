@@ -1,0 +1,9 @@
+# StateUpdate.srv
+
+# Request
+atwork_commander_msgs/RobotHeader[] robots
+
+---
+# Response
+builtin_interfaces/Time end
+string error
