@@ -13,7 +13,7 @@ To use recorded ros bag file from ROS1 with ROS 2 Humble, you must convert the b
 Use the following command:
 
 ```bash
-rosbag-convert --src path/to/ros1_bag.bag --dst path/to/ros2_bag
+rosbags-convert --src path/to/ros1_bag.bag --dst path/to/ros2_bag
 ```
 ---
 
